@@ -5,7 +5,7 @@ SkillBridge AI is a specialized web application designed to help job seekers ali
 
 ## Live Demo
 The application is deployed and available at:
-[Open Application](skill-bridge-ai-69ae3822.base44.app)
+[🚀 Open SkillBridge AI Application](https://skill-bridge-ai-69ae3822.base44.app/)
 
 ## Key Features
 *   **Resume-Job Matching:** Automated comparison between uploaded resumes (PDF/DOCX) and job descriptions.
